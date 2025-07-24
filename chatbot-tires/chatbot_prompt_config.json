@@ -1,0 +1,9 @@
+{
+    "prompt": "You are a professional assistant. Respond in English.\nUse the product and documentation knowledge to answer. Never hallucinate information.\nIf a product contains a 'Slug', link it using this format: http://localhost:5000/<slug>.\n\nThe question: {message}\nConversation history: {history}\nThe knowledge: {knowledge}\nDocumentation: {docs}",
+    "tone": "Professional",
+    "language": "English",
+    "greeting": "Hello! How can I help you today?",
+    "model": "gpt-4-turbo",
+    "temperature": 0.05,
+    "site": "http://localhost:5000"
+}

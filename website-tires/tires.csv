@@ -1,0 +1,42 @@
+id,brand,model,tire_type,size,load_index,speed_rating,price,manufacturing_date,warranty,country_of_origin,description,slug
+11,Michelin,Primacy 4,All-Season,205/55R16,91,H,120.99,2023-05-10,6,France,"A high-performance all-season tire for sedans and coupes, offering excellent wet and dry grip.",michelin-primacy-4
+12,Goodyear,Eagle F1 Asymmetric 6,Performance,225/45R17,94,Y,185.75,2023-06-20,5,USA,An ultra-high-performance tire with superb dry handling and cornering stability.,goodyear-eagle-f1-asymmetric-6
+13,Pirelli,Cinturato P7,Eco-Friendly,195/65R15,91,V,92.50,2023-04-18,5,Italy,Eco-friendly tire with low rolling resistance and enhanced wet braking.,pirelli-cinturato-p7
+14,Bridgestone,Turanza T005,Touring,215/55R17,94,W,136.99,2023-03-10,6,Japan,Premium touring tire with advanced wet performance and quiet ride.,bridgestone-turanza-t005
+15,Continental,PremiumContact 7,Summer,225/50R17,98,V,175.00,2023-03-28,6,Germany,High-end summer tire with precise handling and short braking distances.,continental-premiumcontact-7
+16,Hankook,Ventus S1 Evo3,Ultra-High Performance,235/40R18,95,Y,142.90,2023-05-05,5,South Korea,"Ultra-high-performance tire for premium vehicles, excellent wet traction.",hankook-ventus-s1-evo3
+17,Falken,Azenis FK510,Performance,245/40R18,97,Y,139.99,2023-04-14,6,Japan,Sport-oriented performance tire with responsive steering.,falken-azenis-fk510
+18,Yokohama,ADVAN Sport V105,Summer,255/35R19,96,Y,215.00,2023-01-30,7,Japan,High-speed summer tire for luxury sports cars.,yokohama-advan-sport-v105
+19,Toyo,Proxes Sport,Performance,225/40R18,92,W,130.25,2023-02-10,4,Japan,High-speed stability and precise steering for dynamic driving.,toyo-proxes-sport
+20,Nitto,NT555 G2,Performance,275/40ZR20,106,W,182.00,2023-06-25,5,USA,Ultra-high-performance tire optimized for traction and grip.,nitto-nt555-g2
+21,Vredestein,Ultrac Vorti,Performance,235/45R18,98,Y,128.90,2023-02-28,5,Netherlands,European-engineered tire for sharp handling and stability.,vredestein-ultrac-vorti
+22,Dunlop,Sport Maxx RT2,Summer,225/45R17,91,Y,149.99,2023-07-10,5,Germany,High grip and braking precision for sporty driving.,dunlop-sport-maxx-rt2
+23,Nokian,Seasonproof,All-Season,215/60R16,99,V,123.45,2023-03-16,6,Finland,Nordic all-season tire with safety in all weather conditions.,nokian-seasonproof
+24,Firestone,Roadhawk,Touring,195/65R15,91,H,89.99,2023-04-01,5,USA,Reliable tire with long-lasting performance and comfortable ride.,firestone-roadhawk
+25,Uniroyal,RainSport 5,Rain,225/45R17,94,Y,117.00,2023-05-18,5,Germany,Excellent wet grip and aquaplaning resistance.,uniroyal-rainsport-5
+26,BFGoodrich,G-Force Sport COMP-2,Performance,245/45ZR17,95,W,152.50,2023-02-10,5,USA,High-performance summer tire for aggressive driving.,bfgoodrich-g-force-sport-comp-2
+27,General Tire,Altimax One S,All-Season,205/55R16,91,V,88.00,2023-04-12,5,USA,Balanced all-round performance with long mileage.,general-altimax-one-s
+28,Kumho,Ecsta PS71,Summer,225/40R18,92,Y,126.00,2023-03-03,4,South Korea,Sporty handling and fast steering response.,kumho-ecsta-ps71
+29,Cooper,Zeon RS3-G1,Performance,215/45R17,91,W,110.50,2023-05-07,5,USA,Enhanced grip in dry and wet conditions.,cooper-zeon-rs3-g1
+30,Apollo,Aspire 4G,Performance,205/55R16,91,V,95.00,2023-06-11,4,India,Sporty performance tire for compact and mid-size cars.,apollo-aspire-4g
+31,Matador,MP47 Hectorra 3,Touring,195/65R15,91,H,84.99,2023-03-20,4,Slovakia,Reliable and quiet touring tire for daily driving.,matador-mp47-hectorra-3
+32,Debica,Presto UHP 2,Summer,225/45R17,94,Y,93.50,2023-04-20,4,Poland,Affordable ultra high-performance tire with enhanced wet braking.,debica-presto-uhp-2
+33,Sava,Intensa HP2,Summer,195/65R15,91,H,76.20,2023-03-12,4,Slovenia,Fuel-efficient and durable tire for compact vehicles.,sava-intensa-hp2
+34,Tigar,High Performance,Summer,205/55R16,91,V,69.99,2023-05-08,3,Serbia,Reliable summer tire with good handling on dry roads.,tigar-high-performance
+35,Barum,Bravuris 5HM,Touring,215/60R16,95,H,85.00,2023-02-14,5,Czech Republic,Designed for long mileage and quiet driving.,barum-bravuris-5hm
+36,Semperit,Speed-Life 3,Summer,225/50R17,98,Y,112.90,2023-04-01,5,Austria,Sporty and safe tire for premium sedans.,semperit-speed-life-3
+37,Maxxis,Premitra HP5,Summer,195/55R16,87,V,89.50,2023-05-30,5,Taiwan,Performance tire with balanced handling and braking.,maxxis-premitra-hp5
+38,GT Radial,Champiro FE1,Eco-Friendly,185/65R15,88,H,71.99,2023-03-21,4,Indonesia,Comfort-focused tire with low rolling resistance.,gt-radial-champiro-fe1
+39,Roadstone,Eurovis Sport 04,Performance,225/45R17,94,Y,88.00,2023-04-11,4,South Korea,Performance tire for everyday sporty driving.,roadstone-eurovis-sport-04
+40,Kleber,Dynaxer HP4,Summer,205/55R16,91,V,91.80,2023-02-05,5,France,Reliable tire for wet roads and long-distance travel.,kleber-dynaxer-hp4
+41,Tristar,Sportpower 2,Summer,225/40R18,92,Y,69.00,2023-06-15,3,Belgium,Budget sport tire with good grip for urban conditions.,tristar-sportpower-2
+42,Laufenn,S Fit EQ+,Touring,215/55R16,93,W,95.40,2023-05-03,4,South Korea,Quiet and efficient touring tire for sedans.,laufenn-s-fit-eq-plus
+43,Goodride,SA37,Performance,245/45ZR18,100,Y,109.00,2023-01-29,4,China,Affordable performance tire for everyday spirited driving.,goodride-sa37
+44,Riken,Ultra High Performance,Summer,225/40R18,92,W,79.99,2023-07-01,4,France,Solid summer tire designed by Michelin for EU markets.,riken-ultra-high-performance
+45,Linglong,Green-Max HP010,Summer,195/60R15,88,H,65.75,2023-02-28,3,China,Eco-friendly tire for city driving.,linglong-green-max-hp010
+46,Triangle,AdvanteX TC101,All-Season,215/55R17,94,V,83.50,2023-04-09,4,China,Balanced all-season tire with long tread life.,triangle-advantex-tc101
+47,Federal,595 RS-R,Track,235/45ZR17,94,W,140.00,2023-03-01,3,Taiwan,Aggressive performance tire for street-legal track days.,federal-595-rsr
+48,Accelera,PHI R,Performance,225/40ZR18,92,W,75.00,2023-05-14,3,Indonesia,Low-budget performance tire for tuned cars.,accelera-phi-r
+49,Westlake,Sport RS,Summer,245/40ZR18,97,Y,94.99,2023-06-05,4,China,Budget summer tire with sporty aesthetics.,westlake-sport-rs
+50,Sunny,SN3970,Summer,205/55R16,91,V,59.99,2023-04-22,2,China,Affordable summer tire for economy vehicles.,sunny-sn3970
+51,Petlas,Velox Sport PT741,Summer,225/45R17,94,W,82.00,2023-05-20,4,Turkey,Mid-range tire with comfort and precise handling.,petlas-velox-sport-pt741
